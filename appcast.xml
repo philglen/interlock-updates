@@ -3,6 +3,16 @@
     <channel>
         <title>Interlock</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Mon, 31 Aug 2026 18:04:30 +0100</pubDate>
+            <link>https://github.com/philglen/interlock-updates/releases/tag/v0.1.6-dev</link>
+            <sparkle:version>0.1.6</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/philglen/interlock-updates/main/Interlock-0.1.6-dev-macOS-universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/philglen/interlock-updates/releases/download/v0.1.6-dev/Interlock-0.1.6-dev-macOS-universal.dmg" length="8861972" type="application/octet-stream" sparkle:edSignature="ipcmZWRhTjwkJojGtC5hmeJYfZdBaZwVZZBV3wcXTUk64pTzGZQ/56tuhzAUX/FqZ1tJ9lDaN20gvGmxdY0zAg=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Mon, 31 Aug 2026 17:57:37 +0100</pubDate>
             <link>https://github.com/philglen/interlock-updates/releases/tag/v0.1.5-dev</link>
