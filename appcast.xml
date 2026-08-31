@@ -4,12 +4,18 @@
         <title>Interlock</title>
         <item>
             <title>0.1.3</title>
-            <pubDate>Mon, 31 Aug 2026 17:32:02 +0100</pubDate>
+            <pubDate>Mon, 31 Aug 2026 17:33:18 +0100</pubDate>
             <link>https://github.com/philglen/interlock-updates/releases/tag/v0.1.3-dev</link>
             <sparkle:version>0.1.3</sparkle:version>
             <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/philglen/interlock-updates/main/Interlock-0.1.3-dev-macOS-universal.md</sparkle:releaseNotesLink>
+            <description sparkle:format="markdown"><![CDATA[# Interlock 0.1.3 Private Alpha
+
+- Adds **Interlock → Check for Updates…** and signed automatic update checks.
+- Repairs stale launch-agent definitions left by earlier packaged builds.
+- Keeps mutable data under `~/Library/Application Support/Interlock`.
+- Includes MT5 terminal auto-relaunch and expired-session sign-in recovery.
+]]></description>
             <enclosure url="https://github.com/philglen/interlock-updates/releases/download/v0.1.3-dev/Interlock-0.1.3-dev-macOS-universal.dmg" length="8753633" type="application/octet-stream" sparkle:edSignature="kHY1nLN9zBh9sakp2qlDBf99uuNp/gDDZjrYP9fNX2CE+wJCcjIGbmdeJdd5KyLxZq0UMEH0pZUAQoco/dcdCA=="/>
         </item>
     </channel>
