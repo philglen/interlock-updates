@@ -3,6 +3,15 @@
     <channel>
         <title>Interlock</title>
         <item>
+            <title>0.1.16</title>
+            <pubDate>Tue, 01 Sep 2026 15:13:33 +0100</pubDate>
+            <sparkle:version>0.1.16</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/philglen/interlock-updates/main/Interlock-0.1.16-macOS-universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/philglen/interlock-updates/releases/download/v0.1.16/Interlock-0.1.16-macOS-universal.dmg" length="8989919" type="application/octet-stream" sparkle:edSignature="zZdFmyJ09a8wJtXsD/G2iTWdDuvg53mtyfeQPheayyC8fxGSq9kL3TeibrBraNQKwZfo4ulqCPessPK6nFy3Cg=="/>
+        </item>
+        <item>
             <title>0.1.15</title>
             <pubDate>Tue, 01 Sep 2026 14:32:43 +0100</pubDate>
             <sparkle:version>0.1.15</sparkle:version>
@@ -88,16 +97,6 @@
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/philglen/interlock-updates/main/Interlock-0.1.5-dev-macOS-universal.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/philglen/interlock-updates/releases/download/v0.1.5-dev/Interlock-0.1.5-dev-macOS-universal.dmg" length="8861989" type="application/octet-stream" sparkle:edSignature="iU825dwvB69+TWYrLoYVQVIsxfOdo64fimErU7EMSV4kDjNup4UI+6o1eCBMDyDrGNlcwaJd3LyMCFpi3f5kDQ=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Mon, 31 Aug 2026 17:47:32 +0100</pubDate>
-            <link>https://github.com/philglen/interlock-updates/releases/tag/v0.1.4-dev</link>
-            <sparkle:version>0.1.4</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/philglen/interlock-updates/main/Interlock-0.1.4-dev-macOS-universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/philglen/interlock-updates/releases/download/v0.1.4-dev/Interlock-0.1.4-dev-macOS-universal.dmg" length="8854863" type="application/octet-stream" sparkle:edSignature="VJk8Z3ybm/eXuHvoykvHs+y8h5f22IS8fLSE1dZC2X8jtabqI40aKhzQeTqLnnonPvMH+CIstutI0MIZWOejCQ=="/>
         </item>
     </channel>
 </rss>
